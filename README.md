@@ -1,7 +1,6 @@
 # MLToolkit
 A variety of tools for typical machine learning tasks.
 
-TOC:
 - preprocessing/
  - col_stats.py
  - count_lines.py
@@ -11,7 +10,7 @@ TOC:
  - standardise_features.py
  - tsv2csv.py
  - helpers/
-  - f_is_headers.py
+   - f_is_headers.py
 
 ToDo/Ideas:
 - 3 main steps of ML (Representation, Evaluation/Cost Function, Optimisation)
