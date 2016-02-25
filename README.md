@@ -1,15 +1,17 @@
 # MLToolkit
 A variety of tools for typical machine learning tasks.
 
-- preprocessing/
+(*italics* indicates commonly used scripts)
+
+- **preprocessing/**
  - col_stats.py
  - count_lines.py
  - del_cols.py
  - sample_lines.py
- - split.py
+ - *split.py*
  - standardise_features.py
  - tsv2csv.py
- - helpers/
+ - **helpers/**
    - f_is_headers.py
 
 ToDo/Ideas:
